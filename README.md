@@ -6,3 +6,9 @@
 - Deploys to: production (simulated)
 - Owner: @TheEraptic
 - Every change to `main` must go through a pull request, an approving review and the `test` check (control CM-01).
+
+## Running the tests
+
+```sh
+npm test
+```
